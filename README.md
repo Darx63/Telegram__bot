@@ -36,4 +36,4 @@ docker run -d --name bot -e HOST=Postgres -e TOKEN="Передаем токен 
 ```
 ## Переходим в бота и проверяем его работу.
 
-<a href="https://ibb.co/nfbq8yC"><img src="https://i.ibb.co/J2KWFTQ/IMG-20240512-203045.jpg" alt="IMG-20240512-203045" border="0" width="300" height="600" /></a>
+<a href="https://ibb.co/nfbq8yC"><img src="https://i.ibb.co/J2KWFTQ/IMG-20240512-203045.jpg" alt="IMG-20240512-203045" border="0" width="300" height="500" /></a>
