@@ -34,7 +34,6 @@ docker build -t bot_random:prod .
 ```shell
 docker run -d --name bot -e HOST=Postgres -e TOKEN="Передаем токен Телеграм бота" --network bot_random bot_random:prod
 ```
-![Описание]([ссылка](https://ibb.co/nfbq8yC))
-<img src="
+## Переходим в бота и проверяем его работу.
 
-" alt="альтернативный текст">
+<a href="https://ibb.co/nfbq8yC"><img src="https://i.ibb.co/J2KWFTQ/IMG-20240512-203045.jpg" alt="IMG-20240512-203045" border="0" width="300" height="600" /></a>
