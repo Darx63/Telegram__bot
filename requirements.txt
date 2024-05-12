@@ -1,0 +1,5 @@
+telebot
+python-telegram-bot
+numpy
+config
+psycopg2
